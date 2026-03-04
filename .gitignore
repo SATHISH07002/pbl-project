@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.*
+server/uploads/*
+mobile/
+.DS_Store
+*.log
+*.tmp
+*.cache
